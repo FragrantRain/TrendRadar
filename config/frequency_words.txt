@@ -15,6 +15,7 @@ sora
 claude
 Anthropic
 
+中央
 政策
 改革
 +中国
@@ -30,6 +31,7 @@ Anthropic
 人才
 引进
 政策
+规划
 +中国
 
 光刻机
