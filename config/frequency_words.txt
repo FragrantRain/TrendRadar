@@ -7,13 +7,8 @@ Robot
 
 +AI
 google
-gemini
-deepmind
-chatgpt
 openai
 sora
-claude
-Anthropic
 
 中央
 政策
@@ -29,7 +24,6 @@ Anthropic
 +中国
 
 人才
-引进
 政策
 规划
 +中国
@@ -38,6 +32,7 @@ Anthropic
 EDU
 GPU
 操作系统
+
 工业软件
 航空发动机
 高端数控机床与仪器
@@ -47,22 +42,31 @@ GPU
 鸿蒙
 HarmonyOS
 任正非
+
 比亚迪
 王传福
+
 大疆
 DJI
+
 宇树
 王兴兴
+
 智元
 灵犀
 稚晖君
 彭志辉
+
 特斯拉
 马斯克
+
 微软
 Microsoft
 英伟达
+
 NVIDIA
 黄仁勋
+
 AMD
 谷歌
+
